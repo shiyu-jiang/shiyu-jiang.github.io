@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/shiyu-jiang/blogpost.git</id>
+    <id>https://shiyu-jiang.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-31T05:21:24.031Z</updated>
+    <updated>2020-03-31T05:31:12.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/shiyu-jiang/blogpost.git"/>
-    <link rel="self" href="https://github.com/shiyu-jiang/blogpost.git/atom.xml"/>
+    <link rel="alternate" href="https://shiyu-jiang.github.io"/>
+    <link rel="self" href="https://shiyu-jiang.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/shiyu-jiang/blogpost.git/images/avatar.png</logo>
-    <icon>https://github.com/shiyu-jiang/blogpost.git/favicon.ico</icon>
+    <logo>https://shiyu-jiang.github.io/images/avatar.png</logo>
+    <icon>https://shiyu-jiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试标题]]></title>
-        <id>https://github.com/shiyu-jiang/blogpost.git/post/ce-shi-biao-ti/</id>
-        <link href="https://github.com/shiyu-jiang/blogpost.git/post/ce-shi-biao-ti/">
+        <id>https://shiyu-jiang.github.io/post/ce-shi-biao-ti/</id>
+        <link href="https://shiyu-jiang.github.io/post/ce-shi-biao-ti/">
         </link>
         <updated>2020-03-29T18:04:56.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="一级标题">一级标题</h1>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/shiyu-jiang/blogpost.git/post/hello-gridea/</id>
-        <link href="https://github.com/shiyu-jiang/blogpost.git/post/hello-gridea/">
+        <id>https://shiyu-jiang.github.io/post/hello-gridea/</id>
+        <link href="https://shiyu-jiang.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
